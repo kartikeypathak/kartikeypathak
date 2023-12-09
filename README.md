@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeypathak&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeypathak" /> </p>
 
-- 💬 Ask me about **Azure, GoogleCloudProgram(GCP), HTML, CSS, JS**
+- 💬 Ask me about **Azure, GoogleCloudProgram(GCP), C#, .Net, MVC, DBMS, SQL**
 
 - 📫 How to reach me **kartikeypathak007@gmail.com**
 
